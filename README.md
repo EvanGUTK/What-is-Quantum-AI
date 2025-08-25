@@ -120,7 +120,7 @@ Potential applications:
 
 -   **Quantum Supremacy (2019)** -- Google's Sycamore processor solved a
     sampling problem in 200 seconds that would take classical computers
-    \~10,000 years.\
+    \~10,000 years.
 -   **Majorana Quasiparticles (2020s)** -- Advances suggest stability
     for topological qubits, potentially solving error correction
     bottlenecks.
