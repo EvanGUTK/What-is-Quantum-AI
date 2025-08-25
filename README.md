@@ -139,7 +139,7 @@ Potential applications:
 What-is-Quantum-AI/
 ├── README.md
 ├── docs/              # Detailed explanations
-├── theory/            # Your theoretical notes
+├── theory/            # Theoretical notes
 ├── src/               # Simulation code (optional)
 ├── notebooks/         # Jupyter demos
 ├── experiments/       # Hypotheses and results
