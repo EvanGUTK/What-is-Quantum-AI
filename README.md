@@ -1,6 +1,6 @@
 # What-is-Quantum-AI
 
-> A deep theoretical exploration of Quantum Mechanics × Quantum
+> A deep dive into theoretical exploration of Quantum Mechanics × Quantum
 > Computing × Artificial Intelligence
 
 ![hero](figures/sim.webp)
